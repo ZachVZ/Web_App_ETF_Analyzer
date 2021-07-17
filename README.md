@@ -44,7 +44,7 @@ jupyter lab
 
 ![Voila ETF Analyzer](https://github.com/ZachVZ/Web_App_ETF_Analyzer/blob/main/pics/volia_pic1.PNG)
 ![Voila ETF Analyzer](https://github.com/ZachVZ/Web_App_ETF_Analyzer/blob/main/pics/volia_pic3.PNG)
-https://github.com/ZachVZ/Web_App_ETF_Analyzer/blob/main/pics/volia_pic2.PNG
+![Voila ETF Analyzer](https://github.com/ZachVZ/Web_App_ETF_Analyzer/blob/main/pics/volia_pic2.PNG)
 
 ### Contributors
 Zach Zwiener
